@@ -1,0 +1,8 @@
+venv/
+.DS_Store
+.vscode
+src/main/mlruns
+src/main/resources
+Data/Bitcoin
+Data/News
+Data/NewsDataCobines
