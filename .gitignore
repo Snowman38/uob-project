@@ -3,3 +3,5 @@ venv/
 .vscode
 src/main/mlruns
 src/main/resources
+data/raw/
+data/process/
