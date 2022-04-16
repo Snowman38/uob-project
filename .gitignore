@@ -3,6 +3,3 @@ venv/
 .vscode
 src/main/mlruns
 src/main/resources
-Data/Bitcoin
-Data/News
-Data/NewsDataCobines
