@@ -6,3 +6,6 @@ src/main/resources
 data/raw/
 data/process/
 data/interim/babbage
+data/interim/embedded_news_only_search.csv
+data/interim/embedded_news_only_similarity.csv
+data/interim/news_reduced_3_per_day_embeddings.csv
