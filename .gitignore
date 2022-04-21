@@ -7,3 +7,4 @@ data/raw/
 data/process/
 data/interim/
 data/processed/sentimental_3_per_day.csv
+__pycache__
